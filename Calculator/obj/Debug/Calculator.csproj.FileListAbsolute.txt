@@ -1,0 +1,38 @@
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\программы\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\C#\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\C#\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\C#\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\C#\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alen\Desktop\RKSI-DotNet\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Виктор\Downloads\Новая папка (7)\Calculator\Calculator\obj\Debug\Calculator.pdb
